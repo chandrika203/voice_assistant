@@ -1,0 +1,7 @@
+# pip install -r requirements.txt
+
+groq #cloud service
+SpeechRecognition #helps to understand speech
+pyttsx3 
+streamlit #frontend
+python-dotenv #api key to env
